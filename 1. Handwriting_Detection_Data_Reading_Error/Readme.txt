@@ -1,0 +1,1 @@
+Started reading the image converting it to black and white and storing pixel value for reading data but for some reason all values are turning out be around 255 which is an issue. Will look into it soon.
